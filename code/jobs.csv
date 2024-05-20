@@ -1,0 +1,76 @@
+job_id,job_title,company_name,location,job_description,required_skills,salary_range
+1,Software Engineer,Tech Corp,New York,"Develop, test, and maintain software applications.","Python, Java, SQL, Git",80000-120000
+2,Data Scientist,Data Inc,San Francisco,"Analyze and interpret complex data to help companies make decisions.","Python, R, SQL, Machine Learning, Statistics",100000-150000
+3,Web Developer,Web Solutions,Los Angeles,"Build and maintain websites and web applications.","HTML, CSS, JavaScript, React, Node.js",70000-110000
+4,Systems Analyst,IT Services,Chicago,"Analyze and design information systems to solve business problems.","SQL, System Analysis, Project Management, Communication",75000-105000
+5,Product Manager,Innovate LLC,Boston,"Oversee the development and delivery of products.","Product Management, Agile, Communication, Leadership",95000-135000
+6,Network Engineer,NetSecure,Seattle,"Design and implement computer networks.","Cisco, Networking, Firewall, Troubleshooting",85000-115000
+7,UX Designer,Creative Studio,Austin,"Design user interfaces and user experiences for digital products.","UX Design, UI Design, Adobe XD, Figma",70000-100000
+8,Mobile App Developer,AppWorks,Miami,"Develop mobile applications for iOS and Android platforms.","Swift, Kotlin, React Native, Mobile Development",75000-115000
+9,Cybersecurity Specialist,SecureIT,Denver,"Protect systems and networks from cyber threats.","Cybersecurity, Network Security, Penetration Testing, SIEM",90000-130000
+10,DevOps Engineer,Cloud Solutions,Portland,"Implement and manage CI/CD pipelines and cloud infrastructure.","AWS, Docker, Kubernetes, CI/CD",95000-125000
+11,Data Analyst,Data Insights,Houston,"Interpret complex data sets and provide actionable insights.","Excel, Python, SQL, Data Visualization",60000-90000
+12,Machine Learning Engineer,AI Innovators,Atlanta,"Develop and deploy machine learning models.","Python, TensorFlow, Scikit-Learn, Deep Learning",110000-160000
+13,Database Administrator,Database Co,Phoenix,"Manage and maintain databases.","SQL, Database Management, Backup and Recovery",70000-110000
+14,Frontend Developer,Frontend Masters,Philadelphia,"Develop and enhance the frontend of websites.","HTML, CSS, JavaScript, Vue.js",75000-110000
+15,Backend Developer,Backend Pros,San Diego,"Develop and enhance the backend of applications.","Java, Spring, Node.js, RESTful APIs",85000-120000
+16,Cloud Architect,Cloud Experts,Dallas,"Design and implement cloud solutions.","AWS, Azure, GCP, Cloud Security",105000-150000
+17,IT Support Specialist,IT Help,San Jose,"Provide technical support and troubleshoot IT issues.","Windows, MacOS, Linux, Troubleshooting",50000-80000
+18,Technical Writer,Docs Pro,Detroit,"Create and manage technical documentation.","Technical Writing, Documentation, MS Office",60000-90000
+19,IT Project Manager,Project Leaders,Nashville,"Plan and oversee IT projects.","Project Management, Agile, Scrum",90000-130000
+20,Salesforce Administrator,Salesforce Experts,Charlotte,"Manage and configure Salesforce platforms.","Salesforce, CRM, SQL",70000-100000
+21,Business Analyst,Business Co,Indianapolis,"Analyze business needs and recommend solutions.","Business Analysis, SQL, Communication",75000-105000
+22,Full Stack Developer,Stack Developers,Columbus,"Develop applications using both frontend and backend technologies.","JavaScript, Python, Ruby, SQL",95000-135000
+23,QA Engineer,QA Masters,Fort Worth,"Test and ensure the quality of software applications.","Testing, Selenium, JIRA",70000-100000
+24,SEO Specialist,SEO Gurus,San Antonio,"Improve the search engine ranking of websites.","SEO, Google Analytics, Content Marketing",60000-90000
+25,Content Manager,Content Creators,El Paso,"Create and manage content strategies.","Content Creation, SEO, Marketing",60000-90000
+26,Social Media Manager,Social Media Wizards,Memphis,"Manage social media accounts and campaigns.","Social Media, Content Creation, Analytics",50000-80000
+27,Graphic Designer,Design Hub,Baltimore,"Create visual concepts and designs.","Graphic Design, Photoshop, Illustrator",50000-80000
+28,Operations Manager,Ops Co,Boston,"Oversee daily operations and ensure efficiency.","Operations Management, Leadership, Communication",95000-135000
+29,Financial Analyst,Finance Inc,Milwaukee,"Analyze financial data and provide insights.","Financial Analysis, Excel, Data Visualization",70000-105000
+30,HR Manager,HR Solutions,Denver,"Manage HR functions and employee relations.","HR, Recruitment, Employee Relations",90000-130000
+31,Marketing Manager,Marketing Pros,Louisville,"Develop and implement marketing strategies.","Marketing Strategy, SEO, Content Marketing",80000-120000
+32,Customer Support Specialist,Support Hub,Portland,"Provide customer support and assistance.","Customer Service, Communication, CRM",50000-80000
+33,Product Owner,Product Stars,Las Vegas,"Define and prioritize product features.","Product Management, Agile, Scrum",90000-130000
+34,Research Scientist,Research Corp,Oklahoma City,"Conduct scientific research and experiments.","Research, Data Analysis, Report Writing",105000-150000
+35,AI Engineer,AI Lab,Albuquerque,"Develop AI models and algorithms.","Python, Machine Learning, Neural Networks",115000-160000
+36,IT Consultant,IT Consultants,Tucson,"Provide IT consultancy services.","Consulting, Communication, Problem-Solving",70000-110000
+37,Information Security Analyst,Security Experts,Fresno,"Ensure the security of information systems.","Cybersecurity, Network Security, Risk Management",90000-130000
+38,Mobile UX/UI Designer,Mobile Design Co,Sacramento,"Design user experiences for mobile applications.","UX Design, UI Design, Prototyping",70000-105000
+39,Big Data Engineer,Big Data Solutions,Long Beach,"Process and analyze large data sets.","Hadoop, Spark, SQL, Data Mining",95000-145000
+40,Blockchain Developer,Blockchain Innovators,Kansas City,"Develop blockchain-based applications.","Blockchain, Ethereum, Smart Contracts",90000-135000
+41,Game Developer,Game Studio,Mesa,"Develop and maintain video games.","C++, Unity, Game Development",80000-120000
+42,Network Administrator,Network Wizards,Virginia Beach,"Manage and configure network systems.","Networking, Cisco, Troubleshooting",75000-105000
+43,Penetration Tester,Security Testers,Atlanta,"Conduct penetration testing to identify vulnerabilities.","Penetration Testing, Ethical Hacking, SIEM",85000-120000
+44,Robotics Engineer,Robotics Lab,Colorado Springs,"Develop robotic systems and applications.","Robotics, Programming, Automation",100000-150000
+45,Scrum Master,Agile Co,Omaha,"Facilitate Agile processes and practices.","Agile, Scrum, Project Management",105000-150000
+46,Solution Architect,Solutions Co,Raleigh,"Design and implement complex solutions.","Solution Architecture, Cloud, Security",95000-135000
+47,System Administrator,System Masters,Miami,"Manage and maintain IT systems.","Linux, Windows, Troubleshooting",70000-105000
+48,Technical Support Engineer,Tech Support Pro,Oakland,"Provide technical support for products and services.","Technical Support, Troubleshooting, Communication",60000-90000
+49,User Researcher,User Insights,Minneapolis,"Conduct user research to gather insights.","User Research, Usability Testing, Surveys",75000-110000
+50,Web Content Specialist,Web Content Pros,Tulsa,"Create and manage web content.","Content Creation, SEO, Web Analytics",60000-90000
+51,Marketing Analyst,Market Research Inc,Orlando,"Analyze market trends and data to support marketing strategies.","Market Analysis, Excel, Data Visualization",60000-95000
+52,Legal Advisor,Law Experts,Newark,"Provide legal advice and support to clients.","Legal Research, Legal Writing, Communication",80000-130000
+53,Public Relations Specialist,PR Firm,Richmond,"Manage public relations and communication strategies.","Public Relations, Media Relations, Communication",60000-90000
+54,Financial Planner,Finance Advisors,Boise,"Develop financial plans and strategies for clients.","Financial Planning, Investment, Client Management",70000-110000
+55,Event Coordinator,Event Masters,Salt Lake City,"Plan and coordinate events.","Event Planning, Organization, Communication",50000-80000
+56,Sales Manager,Sales Co,Jacksonville,"Oversee and manage sales teams and strategies.","Sales, Leadership, CRM",75000-120000
+57,Human Resources Assistant,HR Assistants,Providence,"Assist with HR functions and recruitment processes.","HR, Recruitment, Employee Relations",50000-80000
+58,Account Manager,Account Solutions,Des Moines,"Manage client accounts and relationships.","Account Management, Sales, Communication",60000-95000
+59,Customer Success Manager,Customer First,Pittsburgh,"Ensure customer satisfaction and success with products.","Customer Success, Relationship Management, Communication",65000-100000
+60,Content Writer,Content Writers Inc,Fort Wayne,"Create written content for various platforms.","Content Writing, SEO, Research",50000-75000
+61,Healthcare Administrator,Health Solutions,Spokane,"Manage healthcare facilities and operations.","Healthcare Administration, Leadership, Communication",90000-130000
+62,Supply Chain Analyst,Supply Chain Experts,Baton Rouge,"Analyze and optimize supply chain processes.","Supply Chain, Data Analysis, Excel",70000-110000
+63,Quality Assurance Manager,QA Pros,Springfield,"Oversee quality assurance processes and teams.","Quality Assurance, Testing, Leadership",80000-120000
+64,Operations Analyst,Operations Inc,Tallahassee,"Analyze and improve operational processes.","Operations Analysis, Data Analysis, Excel",65000-95000
+65,Creative Director,Creative Agency,Sioux Falls,"Lead creative projects and teams.","Creative Direction, Design, Leadership",90000-140000
+66,Digital Marketing Specialist,Digital Market Co,Shreveport,"Develop and implement digital marketing strategies.","Digital Marketing, SEO, PPC",60000-95000
+67,Research Assistant,Research Assistants Inc,Montgomery,"Assist in research projects and experiments.","Research, Data Analysis, Report Writing",50000-75000
+68,Architect,Architectural Designs,Augusta,"Design buildings and structures.","Architecture, AutoCAD, Design",75000-120000
+69,Real Estate Agent,Realty Co,Chattanooga,"Assist clients in buying and selling properties.","Real Estate, Sales, Negotiation",50000-100000
+70,Insurance Agent,Insurance Experts,Little Rock,"Sell insurance policies and assist clients.","Insurance Sales, Customer Service, Communication",50000-90000
+71,Paralegal,Legal Assistants Inc,Jackson,"Assist lawyers with legal research and documentation.","Paralegal, Legal Research, Documentation",50000-80000
+72,Mechanical Engineer,Engineering Co,Mobile,"Design and develop mechanical systems.","Mechanical Engineering, CAD, Problem-Solving",75000-120000
+73,Civil Engineer,Civil Solutions,Reno,"Plan and design infrastructure projects.","Civil Engineering, AutoCAD, Project Management",80000-125000
+74,Electrical Engineer,Electrical Co,Charleston,"Design and develop electrical systems.","Electrical Engineering, Circuit Design, Problem-Solving",80000-125000
+75,Chemical Engineer,Chemical Corp,Columbia,"Develop processes for chemical manufacturing.","Chemical Engineering, Process Design, Problem-Solving",85000-130000
